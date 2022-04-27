@@ -92,7 +92,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Web Development Fundamentals                                                                                                                                          |            |              |
+| Web Development Fundamentals                                                                                                                                          |     🚧     |              |
 | JavaScript Fundamentals                                                                                                                                              |            |              |
 | Intermediate JavaScript                                                                                                                                              |            |              |
 | TDD and OOP                                                                                                                                                           |            |              |
